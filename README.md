@@ -78,7 +78,8 @@ TensorBoard Results
 ![WhatsApp Image 2025-04-04 at 18 50 24_62c4fd4d](https://github.com/user-attachments/assets/be30c7e5-df75-44af-a850-ec5778d02915)
 ![WhatsApp Image 2025-04-04 at 18 50 37_c85cb154](https://github.com/user-attachments/assets/4abadc3c-4520-4d5d-bc83-f83e96a099bd)
 
-Future Improvements
+## **Future Improvements**
+
 Train on a higher resolution version of the dataset.
 
 Experiment with different learning rates and optimizers.
